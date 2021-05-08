@@ -1,5 +1,7 @@
 import React from 'react';
-import Hello from './Hello';
+import Tweet from './Tweet';
+
+
 
 
 function App() {
@@ -7,9 +9,13 @@ function App() {
 
   return (
 
-    <div>
-      <h1>This is the app component</h1>
-      <Hello />
+    <div className="app">
+
+      <Tweet />
+      <Tweet />
+      <Tweet />
+      <Tweet />
+      <Tweet />
     </div>
 
   );
