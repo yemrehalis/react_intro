@@ -10,7 +10,7 @@
 .app{
   
   min-height: 100vh;
-  background: rgb(37, 131, 185);
+  background: rgb(252, 251, 199);
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -31,4 +31,9 @@
   box-shadow: 5px 10px 30px  rgba(0, 0, 0, 0.6);
 }
 
+
+.red{
+  color: red;
+  
+}
 
